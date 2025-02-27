@@ -5,7 +5,7 @@ Os dados devem estar armazenados e estarem relacionados na base de dados para qu
 
 Ex: Esse relacionamento entre dados é que nos permite descobrir, dada duas entidades como **Aluno** e **Turma**, a qual turma um aluno pertence.
 
-![image](https://github.com/user-attachments/assets/e0a78b5f-521d-4b1b-89a5-d338ddb6d896)
+![image](relacionamento1.png)
 
 Um relacionamento é representado por um losango com o nome do relacionamento no centro. O nome do 
 relacionamento representa a relação que existe entre os objetos das entidades. O nome do relacionamento pode ser um **verbo** como, por exemplo, **pertence**, **leciona**, **estuda**, **possui**, etc; ou também pode ser uma composição dos nomes das entidades como por exemplo **Aluno_Turma** em vez de **pertence**.
@@ -15,7 +15,7 @@ Um relacionamento pode ter atributos. Esses atributos são denominados **atribut
 
 Ex: Imagine que seja necessário armazenar a **data** que um **professor** lecionou determinada disciplina. O **atributo** **data** **não pertence nem à entidade Professor e nem à entidade Disciplina**. Esse atributo pertence ao relacionamento **leciona**, ou seja, é um atributo do relacionamento. E ele só deve ser preenchido com um valor, quando for feita a relação entre **professor** e **disciplina**.
 
-![image](https://github.com/user-attachments/assets/fc17d054-928f-4cf7-b27b-75d82205810d)
+![image](relacionamento2.png)
 
 
 ## Cardinalidade
@@ -52,7 +52,7 @@ A cardinalidade Muitos para Muitos (N:N) ocorre quando um objeto de uma entidade
 
 ## Resumo - Cardinalidade
 
-![image](https://github.com/user-attachments/assets/304e30af-9180-4aaa-a790-b1560b19d819)
+![image](cardinalidade.png)
 
 
 
@@ -66,7 +66,7 @@ Considere o exemplo em que um professor pode ministrar disciplinas para diferent
 Para que as informações possam ser armazenadas e recuperadas de forma completa, teremos que criar um relacionamento ternário entre as entidades, conforme figura abaixo:
 
 
-![image](https://github.com/user-attachments/assets/9aa9869f-de77-484d-a35e-0ce19099badf)
+![image](relacionamento_ternario.png)
 
 Poderíamos tentar criar três relacionamentos binários para o problema descrito acima, no entanto, se fizermos isso, não teremos as informações de forma completa como a temos no relacionamento ternário.
 
@@ -80,7 +80,7 @@ Este tipo especial de relacionamento é aquele que relaciona objetos de uma mesm
 
 Imagine que existam alguns poucos alunos que representam grupos de outros alunos em reuniões e assuntos estudantis. Nesse caso, um objeto aluno representa vários objetos dentro da mesma entidade.  A figura abaixo apresenta o relacionamento **representante** como um relacionamento recursivo.
 
-![image](https://github.com/user-attachments/assets/2e017ea2-c18e-4ac3-bf88-875156b8b9d6)
+![image](relacionamento_recursivo.png)
 
 ## Generalização/Especialização
 
@@ -90,7 +90,7 @@ Isso ocorre quando um conjunto de entidades pode conter subgrupos de entidades c
 
 A figura abaixo apresenta um exemplo de especialização entre as entidades **Pessoa**, **Professor** e **Aluno**.
 
-![image](https://github.com/user-attachments/assets/036acada-4d94-44f5-a80f-88b99557036f)
+![image](especializacao.png)
 
 **Observe que a Generalização/Especialização é indicada no diagrama por um triângulo**, e as entidades filhas estão relacionadas com a entidade pai por meio do triângulo.
 
@@ -125,13 +125,13 @@ De forma resumida, temos os seguintes tipos de especialização e generalizaçã
 <!--![image](https://github.com/user-attachments/assets/61f0e5e1-2868-49a9-818c-8e13b782be60)-->
 
 
-![image](https://github.com/user-attachments/assets/5061c20c-f9b9-4f38-9afd-a9617cded6fb)
+![image](tipo1.png)
 
 
 <!--![image](https://github.com/user-attachments/assets/2c1113cb-081b-4f25-9496-4da68a58c17a)-->
 
 
-![image](https://github.com/user-attachments/assets/bbe6b60a-9814-40a3-83b2-1512371cc4e6)
+![image](tipo2.png)
 
 
 <!--![image](https://github.com/user-attachments/assets/b29357ce-160e-46aa-9dde-e8e6cab7eeee)-->
@@ -142,11 +142,11 @@ De forma resumida, temos os seguintes tipos de especialização e generalizaçã
 
 Imagine que tenhamos duas entidades **Cliente** e **Produto** ligadas pelo relacionamento **Compra**. Agora, suponha que tenhamos que modificar esse modelo de modo que seja necessário saber quantas prestações serão pagas em uma compra. Relacionar a entidade **Prestação** com **Cliente** ou com **Produto** não faz sentido, uma vez que as prestações serão referentes à compra efetuada. Sendo assim, a entidade **Prestação** deve se relacionar à **Compra**, como mostra a figura abaixo. O retângulo desenhado em volta do relacionamento indica que o relacionamento tornou-se uma **entidade associativa**.
 
-![image](https://github.com/user-attachments/assets/26967fad-fe10-4ff3-976d-aae6dbd2dcc4)
+![image](associativa.png)
 
 É possível também reescrever o diagrama ER anterior sem utilizar entidade associativa. Neste caso, o relaciomento **Compra** seria transformado em uma **entidade** que poderia ser relacionada à **Prestação**, conforme figura abaixo.
 
-![image](https://github.com/user-attachments/assets/6ae967fc-9585-4f5e-8696-6b7e6406b68f)
+![image](associativa_alternativa.png)
 
 É importante ressaltar que um mesmo problema pode ter diferentes interpretações, e assim gerar diagramas diferenciados. Isso não significa que apenas um dos diagramas está certo.
 
@@ -187,6 +187,6 @@ Imagine que tenhamos duas entidades **Cliente** e **Produto** ligadas pelo relac
 
 # Resumo 
 
-![image](https://github.com/user-attachments/assets/b54cb7cd-c4ab-4fc6-9fb1-0957aaa2b1fa)
+![image](resumo2.png)
 
-![image](https://github.com/user-attachments/assets/e02dd5b2-affc-4963-98be-96380f54a0c7)
+![image](resumo3.png)

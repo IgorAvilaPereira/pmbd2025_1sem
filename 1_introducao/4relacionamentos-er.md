@@ -66,7 +66,7 @@ Considere o exemplo em que um professor pode ministrar disciplinas para diferent
 Para que as informações possam ser armazenadas e recuperadas de forma completa, teremos que criar um relacionamento ternário entre as entidades, conforme figura abaixo:
 
 
-![image](relacionamento_ternario.png)
+![image](relacionamentos_ternario.png)
 
 Poderíamos tentar criar três relacionamentos binários para o problema descrito acima, no entanto, se fizermos isso, não teremos as informações de forma completa como a temos no relacionamento ternário.
 

@@ -12,13 +12,14 @@
 [introducao-er.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao/introducao-er.md) <br>
 [introducao-er.pdf](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao/introducao-er.pdf) <br>
 
+<!--
 * [introducao_banco_de_dados.md](1_introducao/introducao_banco_de_dados.md)
 * [introducao-er.pdf](1_introducao/introducao-er.pdf)
 * [introducao-er.md](1_introducao/introducao-er.md)
 * [relacionamentos-er.md](1_introducao/relacionamentos-er.md)
 
-
 **Material Complementar:** <br>
+-->
 [relacionamento_recursivo.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao/relacionamento_recursivo.png) <br>
 [relacionamentos1.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao/relacionamentos1.png) <br>
 [relacionamentos2.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao/relacionamentos2.png) <br>

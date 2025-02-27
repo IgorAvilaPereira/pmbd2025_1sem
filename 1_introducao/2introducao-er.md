@@ -24,7 +24,7 @@ Uma **entidade** representa um conjunto de objetos do mesmo tipo do mundo real e
 
 Uma **entidade** é representada graficamente por um retângulo com o nome da entidade dentro do retângulo
 
-![image](https://github.com/user-attachments/assets/bedd3d95-4f00-4a5f-baf7-07f8eea337ab)
+![image](entidade.png)
 
 
 ## Atributos
@@ -35,11 +35,11 @@ Além de uma **entidade** representar objetos do mundo real, ela também deve po
 
 Um atributo pode ser representado graficamente por uma elipse com o nome do atributo dentro da elipse. A elipse é ligada à entidade por uma linha.
 
-![image](https://github.com/user-attachments/assets/d0ffc164-24a3-4d3a-90df-014dbb93ad0e)
+![image](atributos1.png)
 
 Outra forma de representação utilizada por algumas ferramentas é representar o atributo como uma "bolinha" ligada à entidade e com o nome do atributo ao lado.
 
-![image](https://github.com/user-attachments/assets/d212a04f-255d-47d1-a307-5ddf91737248)
+![image](atributos2.png)
 
 ### Tipos de Atributos
 
@@ -132,7 +132,7 @@ Como os atributos individualmente podem ser repetir, vamos tentar uma chave prim
 
 ## Resumo - Representação Gráfica - Atributos
 
-![image](https://github.com/user-attachments/assets/ffe6c4ca-a438-4cb6-9d69-076a9637aafb)
+![image](resumo.png)
 
 <!--## Conteúdo complementar
 

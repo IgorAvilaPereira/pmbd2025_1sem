@@ -5,7 +5,7 @@ Os dados devem estar armazenados e estarem relacionados na base de dados para qu
 
 Ex: Esse relacionamento entre dados é que nos permite descobrir, dada duas entidades como **Aluno** e **Turma**, a qual turma um aluno pertence.
 
-![image](relacionamentos1.png)
+![image](imagens/relacionamentos1.png)
 
 Um relacionamento é representado por um losango com o nome do relacionamento no centro. O nome do 
 relacionamento representa a relação que existe entre os objetos das entidades. O nome do relacionamento pode ser um **verbo** como, por exemplo, **pertence**, **leciona**, **estuda**, **possui**, etc; ou também pode ser uma composição dos nomes das entidades como por exemplo **Aluno_Turma** em vez de **pertence**.
@@ -15,7 +15,7 @@ Um relacionamento pode ter atributos. Esses atributos são denominados **atribut
 
 Ex: Imagine que seja necessário armazenar a **data** que um **professor** lecionou determinada disciplina. O **atributo** **data** **não pertence nem à entidade Professor e nem à entidade Disciplina**. Esse atributo pertence ao relacionamento **leciona**, ou seja, é um atributo do relacionamento. E ele só deve ser preenchido com um valor, quando for feita a relação entre **professor** e **disciplina**.
 
-![image](relacionamentos2.png)
+![image](imagens/relacionamentos2.png)
 
 
 ## Cardinalidade
@@ -52,7 +52,7 @@ A cardinalidade Muitos para Muitos (N:N) ocorre quando um objeto de uma entidade
 
 ## Resumo - Cardinalidade
 
-![image](cardinalidade.png)
+![image](imagens/cardinalidade.png)
 
 
 
@@ -66,7 +66,7 @@ Considere o exemplo em que um professor pode ministrar disciplinas para diferent
 Para que as informações possam ser armazenadas e recuperadas de forma completa, teremos que criar um relacionamento ternário entre as entidades, conforme figura abaixo:
 
 
-![image](relacionamentos_ternario.png)
+![image](imagens/relacionamentos_ternario.png)
 
 Poderíamos tentar criar três relacionamentos binários para o problema descrito acima, no entanto, se fizermos isso, não teremos as informações de forma completa como a temos no relacionamento ternário.
 
@@ -80,7 +80,7 @@ Este tipo especial de relacionamento é aquele que relaciona objetos de uma mesm
 
 Imagine que existam alguns poucos alunos que representam grupos de outros alunos em reuniões e assuntos estudantis. Nesse caso, um objeto aluno representa vários objetos dentro da mesma entidade.  A figura abaixo apresenta o relacionamento **representante** como um relacionamento recursivo.
 
-![image](relacionamento_recursivo.png)
+![image](imagens/relacionamento_recursivo.png)
 
 ## Generalização/Especialização
 
@@ -90,7 +90,7 @@ Isso ocorre quando um conjunto de entidades pode conter subgrupos de entidades c
 
 A figura abaixo apresenta um exemplo de especialização entre as entidades **Pessoa**, **Professor** e **Aluno**.
 
-![image](especializacao.png)
+![image](imagens/especializacao.png)
 
 **Observe que a Generalização/Especialização é indicada no diagrama por um triângulo**, e as entidades filhas estão relacionadas com a entidade pai por meio do triângulo.
 
@@ -110,31 +110,31 @@ De forma resumida, temos os seguintes tipos de especialização e generalizaçã
 
 * **Total (t)**: Toda instância da entidade genérica deve pertencer **a pelo menos uma das entidades especializadas**. Por exemplo, todo Veículo deve ser ou um Carro ou uma Moto.
 
-<!--![image](https://github.com/user-attachments/assets/e8cb1cf1-81a2-4062-b64d-e9a3a623b34d)-->
+<!--![image](imagens/https://github.com/user-attachments/assets/e8cb1cf1-81a2-4062-b64d-e9a3a623b34d)-->
 
 * **Parcial (p)**: **Nem toda instância da entidade precisa pertencer a uma entidade filha**. Esse tipo de especialização é quando apenas modelamos as principais entidades, deixando algumas menos importantes de fora do modelo. Por exemplo, nem todo Funcionário precisa ser um Motorista ou uma Secretária.
 
-<!--![image](https://github.com/user-attachments/assets/aa501346-1f63-412a-812d-d3f177c5584f)-->
+<!--![image](imagens/https://github.com/user-attachments/assets/aa501346-1f63-412a-812d-d3f177c5584f)-->
 
 * **Exclusiva** ou **Disjunta**: Uma instância da entidade pode pertencer a apenas uma entidade especializada. Esse tipo de especialização indica que uma entidade possui uma única característica de uma única vez, ou seja se um cliente é uma pessoa física ele não pode ser uma pessoa jurídica ao mesmo tempo e vice-versa ou um livro que não pode ser nacional e importado ao mesmo tempo.  Por exemplo, um Veículo pode ser ou um Carro ou uma Moto, mas não ambos.
 
 * **Não-exclusiva** ou **Sobreposta**: Uma instância da entidade pode pertencer a várias entidades especializadas. Por exemplo, um Funcionário pode ser tanto um Motorista quanto uma Secretária.
 
-<!--![image](https://github.com/user-attachments/assets/1b567cc1-4f5f-4297-88a2-b337b91f0df5)-->
+<!--![image](imagens/https://github.com/user-attachments/assets/1b567cc1-4f5f-4297-88a2-b337b91f0df5)-->
 
-<!--![image](https://github.com/user-attachments/assets/61f0e5e1-2868-49a9-818c-8e13b782be60)-->
-
-
-![image](tipo1.png)
+<!--![image](imagens/https://github.com/user-attachments/assets/61f0e5e1-2868-49a9-818c-8e13b782be60)-->
 
 
-<!--![image](https://github.com/user-attachments/assets/2c1113cb-081b-4f25-9496-4da68a58c17a)-->
+![image](imagens/tipo1.png)
 
 
-![image](tipo2.png)
+<!--![image](imagens/https://github.com/user-attachments/assets/2c1113cb-081b-4f25-9496-4da68a58c17a)-->
 
 
-<!--![image](https://github.com/user-attachments/assets/b29357ce-160e-46aa-9dde-e8e6cab7eeee)-->
+![image](imagens/tipo2.png)
+
+
+<!--![image](imagens/https://github.com/user-attachments/assets/b29357ce-160e-46aa-9dde-e8e6cab7eeee)-->
 
 ## Entidade Associativa 
 
@@ -142,11 +142,11 @@ De forma resumida, temos os seguintes tipos de especialização e generalizaçã
 
 Imagine que tenhamos duas entidades **Cliente** e **Produto** ligadas pelo relacionamento **Compra**. Agora, suponha que tenhamos que modificar esse modelo de modo que seja necessário saber quantas prestações serão pagas em uma compra. Relacionar a entidade **Prestação** com **Cliente** ou com **Produto** não faz sentido, uma vez que as prestações serão referentes à compra efetuada. Sendo assim, a entidade **Prestação** deve se relacionar à **Compra**, como mostra a figura abaixo. O retângulo desenhado em volta do relacionamento indica que o relacionamento tornou-se uma **entidade associativa**.
 
-![image](associativa.png)
+![image](imagens/associativa.png)
 
 É possível também reescrever o diagrama ER anterior sem utilizar entidade associativa. Neste caso, o relaciomento **Compra** seria transformado em uma **entidade** que poderia ser relacionada à **Prestação**, conforme figura abaixo.
 
-![image](associativa_alternativa.png)
+![image](imagens/associativa_alternativa.png)
 
 É importante ressaltar que um mesmo problema pode ter diferentes interpretações, e assim gerar diagramas diferenciados. Isso não significa que apenas um dos diagramas está certo.
 
@@ -187,6 +187,6 @@ Imagine que tenhamos duas entidades **Cliente** e **Produto** ligadas pelo relac
 
 # Resumo 
 
-![image](resumo2.png)
+![image](imagens/resumo2.png)
 
-![image](resumo3.png)
+![image](imagens/resumo3.png)

@@ -5,7 +5,7 @@ Os dados devem estar armazenados e estarem relacionados na base de dados para qu
 
 Ex: Esse relacionamento entre dados é que nos permite descobrir, dada duas entidades como **Aluno** e **Turma**, a qual turma um aluno pertence.
 
-![image](relacionamento1.png)
+![image](relacionamentos1.png)
 
 Um relacionamento é representado por um losango com o nome do relacionamento no centro. O nome do 
 relacionamento representa a relação que existe entre os objetos das entidades. O nome do relacionamento pode ser um **verbo** como, por exemplo, **pertence**, **leciona**, **estuda**, **possui**, etc; ou também pode ser uma composição dos nomes das entidades como por exemplo **Aluno_Turma** em vez de **pertence**.
@@ -15,7 +15,7 @@ Um relacionamento pode ter atributos. Esses atributos são denominados **atribut
 
 Ex: Imagine que seja necessário armazenar a **data** que um **professor** lecionou determinada disciplina. O **atributo** **data** **não pertence nem à entidade Professor e nem à entidade Disciplina**. Esse atributo pertence ao relacionamento **leciona**, ou seja, é um atributo do relacionamento. E ele só deve ser preenchido com um valor, quando for feita a relação entre **professor** e **disciplina**.
 
-![image](relacionamento2.png)
+![image](relacionamentos2.png)
 
 
 ## Cardinalidade

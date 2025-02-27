@@ -1,6 +1,5 @@
 # pmbd2025_1sem <br>
 ## [./1_introducao](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./1_introducao) <br>
-[2introducao-er.pdf](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao/2introducao-er.pdf) <br>
 [associativa_alternativa.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao/associativa_alternativa.png) <br>
 [associativa.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao/associativa.png) <br>
 [atributos1.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao/atributos1.png) <br>
@@ -11,7 +10,7 @@
 [etapas.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao/etapas.png) <br>
 [introducao_banco_de_dados.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao/introducao_banco_de_dados.md) <br>
 [introducao-er.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao/introducao-er.md) <br>
-[introducao.pdf](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao/introducao.pdf) <br>
+[introducao-er.pdf](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao/introducao-er.pdf) <br>
 [relacionamento_recursivo.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao/relacionamento_recursivo.png) <br>
 [relacionamentos1.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao/relacionamentos1.png) <br>
 [relacionamentos2.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao/relacionamentos2.png) <br>

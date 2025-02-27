@@ -21,3 +21,4 @@
 [resumo.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao/resumo.png) <br>
 [tipo1.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao/tipo1.png) <br>
 [tipo2.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao/tipo2.png) <br>
+[imagens](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao/imagens) <br>

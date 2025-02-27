@@ -1,7 +1,5 @@
 # pmbd2025_1sem <br>
 ## [./1_introducao](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./1_introducao) <br>
-[2introducao-er.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao/2introducao-er.md) <br>
-[4relacionamentos-er.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao/4relacionamentos-er.md) <br>
 [associativa_alternativa.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao/associativa_alternativa.png) <br>
 [associativa.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao/associativa.png) <br>
 [atributos1.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao/atributos1.png) <br>

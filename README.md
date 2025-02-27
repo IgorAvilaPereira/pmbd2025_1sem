@@ -18,7 +18,7 @@
 * [relacionamentos-er.md](relacionamentos-er.md)
 
 
-**Material Complementar:**
+**Material Complementar:** <br>
 [relacionamento_recursivo.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao/relacionamento_recursivo.png) <br>
 [relacionamentos1.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao/relacionamentos1.png) <br>
 [relacionamentos2.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao/relacionamentos2.png) <br>

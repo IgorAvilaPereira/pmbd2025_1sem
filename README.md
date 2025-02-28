@@ -9,7 +9,7 @@
 [imagens](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao/imagens) <br>
 ## [./2_aula](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./2_aula) <br>
 
-[Relacionamentos - ER](./../../1_introducao/relacionamentos.md)
+[Relacionamentos - ER](./../../blob/main/1_introducao/relacionamentos.md)
 
 * Especialização
 

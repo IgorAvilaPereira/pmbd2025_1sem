@@ -14,10 +14,6 @@
 * Entidade Fraca
 
 * Entidade Associativa
-
-
-* [Vídeo - DER: Entidades, Atributos, Relacionamentos, Entidade Fraca e Generalização/Especialização](https://www.youtube.com/watch?v=WuOItyxbKQc)
-
 [resumo2.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./2_aula/resumo2.png) <br>
 [resumo3.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./2_aula/resumo3.png) <br>
 ## [./listas](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./listas) <br>

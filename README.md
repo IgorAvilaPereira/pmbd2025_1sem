@@ -22,3 +22,5 @@
 [resumo3.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./2_aula/resumo3.png) <br>
 ## [./listas](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./listas) <br>
 [lista_er.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/lista_er.md) <br>
+## [./videos](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./videos) <br>
+&nbsp;

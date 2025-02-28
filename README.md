@@ -8,6 +8,9 @@
 [setup.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao/setup.md) <br>
 [imagens](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao/imagens) <br>
 ## [./2_aula](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./2_aula) <br>
+[entidade_fraca1.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./2_aula/entidade_fraca1.png) <br>
+[entidade_fraca2.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./2_aula/entidade_fraca2.png) <br>
+[entidade-fraca.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./2_aula/entidade-fraca.md) <br>
 
 * Especialização
 

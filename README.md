@@ -8,9 +8,8 @@
 [setup.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao/setup.md) <br>
 [imagens](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao/imagens) <br>
 ## [./2_aula](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./2_aula) <br>
-[entidade_fraca1.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./2_aula/entidade_fraca1.png) <br>
-[entidade_fraca2.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./2_aula/entidade_fraca2.png) <br>
-[entidade-fraca.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./2_aula/entidade-fraca.md) <br>
+[entidade_associativa1.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./2_aula/entidade_associativa1.png) <br>
+[entidade_associativa2.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./2_aula/entidade_associativa2.png) <br>
 
 * Especialização
 
@@ -18,6 +17,5 @@
 
 * Entidade Associativa
 
-[resumo.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./2_aula/resumo.png) <br>
 ## [./listas](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./listas) <br>
 [lista_er.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/lista_er.md) <br>

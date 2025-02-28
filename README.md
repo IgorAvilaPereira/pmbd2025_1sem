@@ -23,4 +23,9 @@
 ## [./listas](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./listas) <br>
 [lista_er.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/lista_er.md) <br>
 ## [./videos](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./videos) <br>
-&nbsp;
+**DER:**
+
+* https://www.youtube.com/watch?v=WuOItyxbKQc
+* https://www.youtube.com/watch?v=Yz40xfg-Gi8
+* https://www.youtube.com/watch?v=Z6zCFfn_n8Q
+* https://www.youtube.com/watch?v=8roMCSjNbeE

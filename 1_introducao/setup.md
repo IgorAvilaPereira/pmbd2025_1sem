@@ -27,6 +27,14 @@ sudo apt install dia
 * [Netbeans](https://netbeans.apache.org/download/nb126/nb126.html)
 * Alguma Distribuição Linux baseada no Ubuntu. Ex: Lubuntu, Xubuntu, Kubuntu, Ubuntu Mate, Ubuntu Budgie, Linux Mint e etc
 
+
+## Como instalar PostgreSQL - Windows e no Linux
+
+* https://www.youtube.com/watch?v=QrsDuBwgF9Y
+* https://www.youtube.com/watch?v=L_2l8XTCPAE
+* https://www.youtube.com/watch?v=UbX-2Xud1JA
+* https://www.youtube.com/watch?v=wh7yKZVx294
+
 ## Alternativas para quem não curte o pgAdmin: 
 
 * https://dbeaver.io/download/ (muito bom! e serve para outros SGBD's)

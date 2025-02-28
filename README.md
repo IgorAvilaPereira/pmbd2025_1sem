@@ -9,11 +9,15 @@
 [imagens](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao/imagens) <br>
 ## [./2_aula](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./2_aula) <br>
 
+[Relacionamentos - ER](./../../1_introducao/relacionamentos.md)
+
 * Especialização
 
 * Entidade Fraca
 
 * Entidade Associativa
 
+[resumo2.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./2_aula/resumo2.png) <br>
+[resumo3.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./2_aula/resumo3.png) <br>
 ## [./listas](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./listas) <br>
 [lista_er.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/lista_er.md) <br>

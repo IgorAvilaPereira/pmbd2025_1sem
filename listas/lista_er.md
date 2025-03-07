@@ -1,6 +1,6 @@
 # Lista ER
 
-1. :ok: Construa um diagrama ER para a **administradora de imóveis** descrita abaixo:
+1. Construa um diagrama ER para a **administradora de imóveis** descrita abaixo:
 
 * A administradora trabalha tanto com administração de condomínios quanto com a administração de aluguéis 
 
@@ -34,7 +34,7 @@
 * Sobre os alunos, precisa-se saber a matrícula do aluno, nome, telefone e turma a que pertence.
 * Os livros podem ser emprestados aos alunos cadastrados, sendo necessário registrar a data do empréstimo e data da devolução. Deseja-se saber o histórico desses empréstimos, pois se o aluno atrasar a devolução mais de uma vez ele será banido do grupo. 
 
-5. :ok: Construa um diagrama ER para um **estabelecimento comercial** onde se deseja:
+5. Construa um diagrama ER para um **estabelecimento comercial** onde se deseja:
 
 * Registrar dados de produtos (código, nome, preço e quantidade em estoque). 
 * Cada produto possui um fornecedor. É necessário registrar o nome, CNPJ e telefone do fornecedor.
@@ -43,7 +43,7 @@
 * Cada item está associado a um produto.
 * Cada venda é feita para um cliente, que deve ser cadastrado no sistema (registrando CPF, nome e telefone). 
 
-6. :ok: Construa um diagrama ER para uma **base de dados de artigos científicos**. 
+6. Construa um diagrama ER para uma **base de dados de artigos científicos**. 
 
 * Cada artigo possui um código, título, resumo, número de páginas e um nome de arquivo. 
 * Cada artigo está associada uma ou mais palavras-chave. 
@@ -52,7 +52,7 @@
 * Para cada instituição devem ser registrados seu código, nome e endereço. Cada artigo também está associado a um periódico. 
 * Para cada periódico deve ser registrado seu nome, código e nível de qualificação na CAPES (uma letra). 
 
-7. :ok: Construa um ER para o gerenciamento de **gravadoras de CD's** onde:
+7. Construa um ER para o gerenciamento de **gravadoras de CD's** onde:
 
 * Um **autor** tem **id** e um **nome**;
 * Uma **música** tem **id**, **nome** e **duração**;

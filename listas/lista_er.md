@@ -71,7 +71,7 @@ carros. Cada carro tem associado a ele zero a qualquer número de acidentes regi
 registrar uma descrição, número da placa, número do chassi e quantidade de quilômetros rodados. Para
 cada acidente registrar uma descrição, data, hora, local, e valor total dos danos.
 
-9. :ok: Uma **universidade** deseja construir um banco de dados para armazenar o QSL (Quadro de Sequência
+9. Uma **universidade** deseja construir um banco de dados para armazenar o QSL (Quadro de Sequência
 Lógica) de cada curso ofertado por ela. Todos os cursos nessa universidade são semestrais. Para cada
 curso, deseja-se armazenar as seguintes informações: código do curso, nome, turno (diurno ou noturno) e
 nível (graduação, especialização, mestrado ou doutorado). Cada curso é mantido por um departamento.

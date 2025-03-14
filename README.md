@@ -16,6 +16,8 @@
 * Entidade Associativa <br><br>
 [resumo2.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./2_aula/resumo2.png) <br>
 [resumo3.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./2_aula/resumo3.png) <br>
+## [./3_aula](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./3_aula) <br>
+&nbsp;
 ## [./listas](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./listas) <br>
 [escola.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/escola.dia) <br>
 [lista-er.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/lista-er.dia) <br>

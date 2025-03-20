@@ -18,6 +18,7 @@
 [resumo2.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./2_aula/resumo2.png) <br>
 [resumo3.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./2_aula/resumo3.png) <br>
 ## [./3_aula](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./3_aula) <br>
+[entidade-fraca.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./3_aula/entidade-fraca.md) <br>
 * Entidade Fraca e continuação Lista ER
 
 
@@ -26,6 +27,7 @@
 * Entidade Associativa
 
 
+[imagens](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./3_aula/imagens) <br>
 ## [./listas](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./listas) <br>
 [escola.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/escola.dia) <br>
 [lista-er.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/lista-er.dia) <br>

@@ -18,12 +18,12 @@
 [resumo2.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./2_aula/resumo2.png) <br>
 [resumo3.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./2_aula/resumo3.png) <br>
 ## [./3_aula](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./3_aula) <br>
+[entidade-associativa.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./3_aula/entidade-associativa.md) <br>
 [entidade-fraca.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./3_aula/entidade-fraca.md) <br>
 
 * [Video - Recapitulação + Entidade Fraca + Generalização/Especialização](https://www.youtube.com/watch?v=WuOItyxbKQc)
 
 * Entidade Fraca e continuação Lista ER
-
 
 **Opcional:**
 

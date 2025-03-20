@@ -21,6 +21,7 @@
 ## [./3_aula](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./3_aula) <br>
 [entidade-associativa.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./3_aula/entidade-associativa.md) <br>
 [entidade-fraca.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./3_aula/entidade-fraca.md) <br>
+[periodico.drawio](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./3_aula/periodico.drawio) <br>
 * Entidade Fraca e continuação Lista ER
 
 **Opcional:**

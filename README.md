@@ -37,7 +37,19 @@
 
 [imagens](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./3_aula/imagens) <br>
 ## [./cronograma](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./cronograma) <br>
-&nbsp;
+# Cronograma
+
+**1 bim.**
+* 10/04 -> er (5.0)
+* 08/05 -> modelo relacional (5.0)
+ obs: com consulta/presencial
+
+**2 bim**
+* modelo relacional e implementação física (SQL)
+
+
+IOBD (3 sem)
+SQL, consultas, conectividade e etc.
 ## [./listas](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./listas) <br>
 [escola.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/escola.dia) <br>
 [lista-er.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/lista-er.dia) <br>

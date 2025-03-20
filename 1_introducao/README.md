@@ -1,1 +1,0 @@
-![etapas](imagens/etapas.png)

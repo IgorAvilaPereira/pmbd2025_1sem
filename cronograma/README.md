@@ -1,4 +1,3 @@
-# Cronograma
 
 **1 bim.**
 * 10/04 -> er (5.0)
@@ -9,5 +8,3 @@
 * modelo relacional e implementação física (SQL)
 
 
-IOBD (3 sem)
-SQL, consultas, conectividade e etc.

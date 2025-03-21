@@ -58,7 +58,7 @@ Modelagem Lógica (Modelo Relacional)
 
 -->
 
-* [Vídeos](https://youtube.com/playlist?list=PLvT8P1q6jMWdCXVwsdO3UAPAn743vHccK)
+[Vídeos](https://youtube.com/playlist?list=PLvT8P1q6jMWdCXVwsdO3UAPAn743vHccK)
 
 <!--[Dicionário de Dados](https://github.com/IgorAvilaPereira/pmbd2023_1sem/blob/main/10dicionario-de-dados.md)-->
 
@@ -85,6 +85,9 @@ Modelagem Lógica (Modelo Relacional)
 * Atributos multivalores tornam-se tabelas.
 * Atributos compostos podem se transformar em 1) colunas (o que a literatura diz) ou em uma 2) nova tabela + um relacionamento _1:n_ com a tabela resultante da entidade que, anteriormente, tinha o atributo composto (solução prática que permite mais uma instância do atributo composto).
 * Especialização/Generalização podem gerar (1) uma única tabela, (2) uma tabela para cada entidade filha ou (3) uma tabela para cada entidade.
+
+
+
 [transformacao-er-modelo-relacional.pdf](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./4_aula/transformacao-er-modelo-relacional.pdf) <br>
 [exemplos](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./4_aula/exemplos) <br>
 [imagens](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./4_aula/imagens) <br>

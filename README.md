@@ -1,28 +1,28 @@
 # pmbd2025_1sem <br>
-## [./1_introducao](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./1_introducao) <br>
-[etapas.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao/etapas.png) <br>
-[exemplo.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao/exemplo.dia) <br>
-[introducao_banco_de_dados.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao/introducao_banco_de_dados.md) <br>
-[introducao-er.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao/introducao-er.md) <br>
-[introducao-er.pdf](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao/introducao-er.pdf) <br>
-[relacionamentos-er.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao/relacionamentos-er.md) <br>
-[setup.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao/setup.md) <br>
-[imagens](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao/imagens) <br>
-## [./2_aula](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./2_aula) <br>
-[mapa_mental.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./2_aula/mapa_mental.png) <br>
+## [./1_introducao_er](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./1_introducao_er) <br>
+[etapas.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao_er/etapas.png) <br>
+[exemplo.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao_er/exemplo.dia) <br>
+[introducao_banco_de_dados.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao_er/introducao_banco_de_dados.md) <br>
+[introducao-er.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao_er/introducao-er.md) <br>
+[introducao-er.pdf](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao_er/introducao-er.pdf) <br>
+[relacionamentos-er.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao_er/relacionamentos-er.md) <br>
+[setup.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao_er/setup.md) <br>
+[imagens](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao_er/imagens) <br>
+## [./2_especializacao_generalizacao](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./2_especializacao_generalizacao) <br>
+[mapa_mental.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./2_especializacao_generalizacao/mapa_mental.png) <br>
 
 * Especialização
 
 * Entidade Fraca
 
 * Entidade Associativa <br><br>
-[resumo2.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./2_aula/resumo2.png) <br>
-[resumo3.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./2_aula/resumo3.png) <br>
-## [./3_aula](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./3_aula) <br>
-[entidade-associativa.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./3_aula/entidade-associativa.md) <br>
-[entidade-fraca.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./3_aula/entidade-fraca.md) <br>
-[periodico.drawio](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./3_aula/periodico.drawio) <br>
-[periodico.drawio.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./3_aula/periodico.drawio.png) <br>
+[resumo2.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./2_especializacao_generalizacao/resumo2.png) <br>
+[resumo3.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./2_especializacao_generalizacao/resumo3.png) <br>
+## [./3_entidades_fraca_associativa](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./3_entidades_fraca_associativa) <br>
+[entidade-associativa.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./3_entidades_fraca_associativa/entidade-associativa.md) <br>
+[entidade-fraca.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./3_entidades_fraca_associativa/entidade-fraca.md) <br>
+[periodico.drawio](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./3_entidades_fraca_associativa/periodico.drawio) <br>
+[periodico.drawio.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./3_entidades_fraca_associativa/periodico.drawio.png) <br>
 * Entidade Fraca e continuação Lista ER
 
 **Opcional:**
@@ -36,12 +36,12 @@
 
 
 
-[imagens](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./3_aula/imagens) <br>
-## [./4_aula](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./4_aula) <br>
-[conversao-entre-modelos-er-e-relacional.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./4_aula/conversao-entre-modelos-er-e-relacional.md) <br>
-[dicionario-de-dados.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./4_aula/dicionario-de-dados.md) <br>
-[modelo-relacional.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./4_aula/modelo-relacional.md) <br>
-[principais-tiposdedados-postgresql.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./4_aula/principais-tiposdedados-postgresql.png) <br>
+[imagens](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./3_entidades_fraca_associativa/imagens) <br>
+## [./4_modelagem_logica](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./4_modelagem_logica) <br>
+[conversao-entre-modelos-er-e-relacional.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./4_modelagem_logica/conversao-entre-modelos-er-e-relacional.md) <br>
+[dicionario-de-dados.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./4_modelagem_logica/dicionario-de-dados.md) <br>
+[modelo-relacional.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./4_modelagem_logica/modelo-relacional.md) <br>
+[principais-tiposdedados-postgresql.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./4_modelagem_logica/principais-tiposdedados-postgresql.png) <br>
 <!--
 Modelagem Lógica (Modelo Relacional)
 
@@ -88,9 +88,9 @@ Modelagem Lógica (Modelo Relacional)
 
 
 
-[transformacao-er-modelo-relacional.pdf](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./4_aula/transformacao-er-modelo-relacional.pdf) <br>
-[exemplos](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./4_aula/exemplos) <br>
-[imagens](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./4_aula/imagens) <br>
+[transformacao-er-modelo-relacional.pdf](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./4_modelagem_logica/transformacao-er-modelo-relacional.pdf) <br>
+[exemplos](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./4_modelagem_logica/exemplos) <br>
+[imagens](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./4_modelagem_logica/imagens) <br>
 ## [./cronograma](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./cronograma) <br>
 
 **1 bim.**

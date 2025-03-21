@@ -14,7 +14,6 @@ Modelagem Lógica (Modelo Relacional)
 * [Principais Tipos de Dados - PostgreSQL](https://github.com/IgorAvilaPereira/pmbd2024_2sem/blob/main/principais-tiposdedados-postgresql.png)
 
 -->
-
 [Vídeos](https://youtube.com/playlist?list=PLvT8P1q6jMWdCXVwsdO3UAPAn743vHccK)
 
 <!--[Dicionário de Dados](https://github.com/IgorAvilaPereira/pmbd2023_1sem/blob/main/10dicionario-de-dados.md)-->

@@ -32,4 +32,4 @@ Uma restrição de **Domínio ou Regra de Domínio** define quais valores serão
 A restrição de *default* permite que seja inserido um valor padrão caso o usuário não digite nada para o campo. No nosso exemplo, definiu-se que se o usuário não digitar nada para o campo **cidade_aluno**, o próprio SGBD armazena o valor "Curitiba" para esse campo.
 
 A última restrição é a de **unicidade**. Essa restrição **é aplicada apenas para atributos que não são chave primária e que não podem se repetir**. No exemplo, o **atributo RG_aluno** não é chave primária e não pode se repetir. Sendo assim, pode-se definir o atributo como unique
-(único). **É redundante dizer que uma chave primária é unique, já que ela não se repete. **
+(único). **É redundante dizer que uma chave primária é unique, já que ela não se repete.**

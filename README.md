@@ -37,6 +37,8 @@
 
 
 [imagens](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./3_aula/imagens) <br>
+## [./4_aula](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./4_aula) <br>
+&nbsp;
 ## [./cronograma](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./cronograma) <br>
 
 **1 bim.**

@@ -39,6 +39,7 @@
 [imagens](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./3_aula/imagens) <br>
 ## [./4_aula](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./4_aula) <br>
 [conversao-entre-modelos-er-e-relacional.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./4_aula/conversao-entre-modelos-er-e-relacional.md) <br>
+[dicionario-de-dados.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./4_aula/dicionario-de-dados.md) <br>
 [modelo-relacional.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./4_aula/modelo-relacional.md) <br>
 [principais-tiposdedados-postgresql.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./4_aula/principais-tiposdedados-postgresql.png) <br>
 <!--
@@ -57,7 +58,6 @@ Modelagem Lógica (Modelo Relacional)
 * [Principais Tipos de Dados - PostgreSQL](https://github.com/IgorAvilaPereira/pmbd2024_2sem/blob/main/principais-tiposdedados-postgresql.png)
 
 -->
-
 [Vídeos](https://youtube.com/playlist?list=PLvT8P1q6jMWdCXVwsdO3UAPAn743vHccK)
 
 <!--[Dicionário de Dados](https://github.com/IgorAvilaPereira/pmbd2023_1sem/blob/main/10dicionario-de-dados.md)-->

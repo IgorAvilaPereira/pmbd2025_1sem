@@ -41,6 +41,8 @@
 [conversao-entre-modelos-er-e-relacional.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./4_modelagem_logica/conversao-entre-modelos-er-e-relacional.md) <br>
 [dicionario-de-dados.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./4_modelagem_logica/dicionario-de-dados.md) <br>
 [modelo-relacional.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./4_modelagem_logica/modelo-relacional.md) <br>
+[periodico_modelo_relacional.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./4_modelagem_logica/periodico_modelo_relacional.dia) <br>
+[periodico_modelo_relacional.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./4_modelagem_logica/periodico_modelo_relacional.png) <br>
 [principais-tiposdedados-postgresql.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./4_modelagem_logica/principais-tiposdedados-postgresql.png) <br>
 <!--
 Modelagem Lógica (Modelo Relacional)

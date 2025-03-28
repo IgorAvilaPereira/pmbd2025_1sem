@@ -93,6 +93,8 @@ Modelagem Lógica (Modelo Relacional)
 [transformacao-er-modelo-relacional.pdf](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./4_modelagem_logica/transformacao-er-modelo-relacional.pdf) <br>
 [exemplos](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./4_modelagem_logica/exemplos) <br>
 [imagens](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./4_modelagem_logica/imagens) <br>
+## [./5_modelagem_logica2](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./5_modelagem_logica2) <br>
+&nbsp;
 ## [./cronograma](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./cronograma) <br>
 
 **1 bim.**

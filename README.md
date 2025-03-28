@@ -98,17 +98,16 @@ Modelagem Lógica (Modelo Relacional)
 [exemplos](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./4_modelagem_logica/exemplos) <br>
 [imagens](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./4_modelagem_logica/imagens) <br>
 ## [./5_modelagem_logica2](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./5_modelagem_logica2) <br>
+Exemplos e Exercícios sobre Modelagem Lógica: casos de atributo multivalorado, atributo composto e e generalização/especialização
 
-* +exercícios sobre modelagem lógica: 
-* casos de atributo multivalorado, atributo composto e e generalização/especialização
-* trabalho 1 -> definir data 
+Trabalho 1 -> Data e Peso estão no SIGAA
 
-**volta:**
+Na volta:
 
-* fazer a atividade avaliada do 1 bim.
-* retomar modelagem lógica 
-* etapa de implementação física 
-
+* Aulão de Revisão
+* Fazer a atividade avaliada do 1 bim.
+* E começar 2º bim: Retomando modelagem lógica e trazendo a etapa de implementação física 
+  
 &nbsp;
 ## [./listas](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./listas) <br>
 [escola.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/escola.dia) <br>

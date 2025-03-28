@@ -1,12 +1,11 @@
+Exemplos e Exercícios sobre Modelagem Lógica: casos de atributo multivalorado, atributo composto e e generalização/especialização
 
-* +exercícios sobre modelagem lógica: 
-* casos de atributo multivalorado, atributo composto e e generalização/especialização
-* trabalho 1 -> definir data 
+Trabalho 1 -> Data e Peso estão no SIGAA
 
-**volta:**
+Na volta:
 
-* fazer a atividade avaliada do 1 bim.
-* retomar modelagem lógica 
-* etapa de implementação física 
-
+* Aulão de Revisão
+* Fazer a atividade avaliada do 1 bim.
+* E começar 2º bim: Retomando modelagem lógica e trazendo a etapa de implementação física 
+  
 &nbsp;

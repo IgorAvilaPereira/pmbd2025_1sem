@@ -98,7 +98,10 @@ Modelagem Lógica (Modelo Relacional)
 [exemplos](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./4_modelagem_logica/exemplos) <br>
 [imagens](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./4_modelagem_logica/imagens) <br>
 ## [./5_modelagem_logica2](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./5_modelagem_logica2) <br>
+[aula_08-formas_normais_1FN-2FN.pdf](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./5_modelagem_logica2/aula_08-formas_normais_1FN-2FN.pdf) <br>
+[normalizacao_material_complementar.pdf](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./5_modelagem_logica2/normalizacao_material_complementar.pdf) <br>
 [normalizacao.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./5_modelagem_logica2/normalizacao.md) <br>
+[normalizacao_resumo.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./5_modelagem_logica2/normalizacao_resumo.md) <br>
 Exemplos e Exercícios sobre Modelagem Lógica: casos de atributo multivalorado, atributo composto e e generalização/especialização
 
 Trabalho 1 -> Data e Peso estão no SIGAA

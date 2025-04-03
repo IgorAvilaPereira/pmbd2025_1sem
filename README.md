@@ -127,6 +127,8 @@ Modelagem Lógica (Modelo Relacional)
 [escola.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/escola.dia) <br>
 [lista-er.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/lista-er.dia) <br>
 [lista_er.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/lista_er.md) <br>
+[periodico.drawio](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/periodico.drawio) <br>
+[periodico.drawio.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/periodico.drawio.png) <br>
 ## [./trabalhos](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./trabalhos) <br>
 # Trabalho 1
 

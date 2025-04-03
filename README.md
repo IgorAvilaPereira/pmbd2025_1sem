@@ -99,6 +99,8 @@ Modelagem Lógica (Modelo Relacional)
 [imagens](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./4_modelagem_logica/imagens) <br>
 ## [./5_modelagem_logica2](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./5_modelagem_logica2) <br>
 [aula_08-formas_normais_1FN-2FN.pdf](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./5_modelagem_logica2/aula_08-formas_normais_1FN-2FN.pdf) <br>
+[gravadora.drawio](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./5_modelagem_logica2/gravadora.drawio) <br>
+[gravadora_modelo_relacional.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./5_modelagem_logica2/gravadora_modelo_relacional.dia) <br>
 [normalizacao_material_complementar.pdf](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./5_modelagem_logica2/normalizacao_material_complementar.pdf) <br>
 [normalizacao.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./5_modelagem_logica2/normalizacao.md) <br>
 [normalizacao_resumo.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./5_modelagem_logica2/normalizacao_resumo.md) <br>
@@ -122,7 +124,8 @@ Modelagem Lógica (Modelo Relacional)
 * Fazer a atividade avaliada do 1 bim.
 * E começar 2º bim: Retomando modelagem lógica e trazendo a etapa de implementação física 
 
-&nbsp;[imagens](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./5_modelagem_logica2/imagens) <br>
+&nbsp;[script.sql](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./5_modelagem_logica2/script.sql) <br>
+[imagens](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./5_modelagem_logica2/imagens) <br>
 ## [./listas](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./listas) <br>
 [escola.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/escola.dia) <br>
 [lista-er.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/lista-er.dia) <br>

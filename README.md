@@ -104,20 +104,25 @@ Modelagem Lógica (Modelo Relacional)
 [normalizacao_resumo.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./5_modelagem_logica2/normalizacao_resumo.md) <br>
 &nbsp;
 
-**Agenda:**
-
-* Exemplos e Exercícios sobre Modelagem Lógica: casos de atributo multivalorado, atributo composto e e generalização/especialização
+**Hoje:**
 
 * Trabalho 1 -> Data e Peso estão no SIGAA
 
+* **Matéria Nova:**
+
+    * [transformacao-er-relacional-autorelacionamento](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/4_modelagem_logica/exemplos/exemplo-transformacao-er-relacional-autorelacionamento.dia)
+    * [transformacao-er-relacional-composto](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/4_modelagem_logica/exemplos/exemplo-transformacao-er-relacional-composto.dia)
+    * [transformacao-er-relacional-multivalorado](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/4_modelagem_logica/exemplos/exemplo-transformacao-er-relacional-multivalorado.dia)
+    * [transformacao-er-relacional-heranca](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/4_modelagem_logica/exemplos/exemplo-transformacao-er-relacional-heranca.dia)
+    * [transformacao-er-relacional-entidade-fraca](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/4_modelagem_logica/exemplos/exemplo-transformacao-er-relacional-entidade-fraca.dia)
+    
 **Cronograma (volta):**
 
 * Aulão de Revisão
 * Fazer a atividade avaliada do 1 bim.
 * E começar 2º bim: Retomando modelagem lógica e trazendo a etapa de implementação física 
 
-&nbsp;
-[imagens](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./5_modelagem_logica2/imagens) <br>
+&nbsp;[imagens](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./5_modelagem_logica2/imagens) <br>
 ## [./listas](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./listas) <br>
 [escola.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/escola.dia) <br>
 [lista-er.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/lista-er.dia) <br>

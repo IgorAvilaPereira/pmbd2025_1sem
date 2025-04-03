@@ -18,9 +18,7 @@ CREATE TABLE album (
     id serial primary key,
     titulo text,
     data_lancamento date,
---    fk
     gravadora_id integer references gravadora (id),
-    -- fk
     indicado_id integer references album (id)
 );
 

@@ -178,3 +178,4 @@ a data de elaboração do pedido. Cada pedido pode
 envolver de um a vários produtos, e para cada produto,
 indica-se a quantidade deste pedida.
 
+[Resoluções](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/listas)

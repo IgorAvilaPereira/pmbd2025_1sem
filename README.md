@@ -129,11 +129,11 @@ Modelagem Lógica (Modelo Relacional)
 [normalizacao_resumo.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/normalizacao_resumo.md) <br>
 ## Regras de Mapeamento - ER > Modelo Relacional 
 
-    * [transformacao-er-relacional-autorelacionamento](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/4_modelagem_logica/exemplos/exemplo-transformacao-er-relacional-autorelacionamento.dia)
-    * [transformacao-er-relacional-composto](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/4_modelagem_logica/exemplos/exemplo-transformacao-er-relacional-composto.dia)
-    * [transformacao-er-relacional-multivalorado](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/4_modelagem_logica/exemplos/exemplo-transformacao-er-relacional-multivalorado.dia)
-    * [transformacao-er-relacional-heranca](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/4_modelagem_logica/exemplos/exemplo-transformacao-er-relacional-heranca.dia)
-    * [transformacao-er-relacional-entidade-fraca](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/4_modelagem_logica/exemplos/exemplo-transformacao-er-relacional-entidade-fraca.dia)
+* [transformacao-er-relacional-autorelacionamento](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/4_modelagem_logica/exemplos/exemplo-transformacao-er-relacional-autorelacionamento.dia)
+* [transformacao-er-relacional-composto](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/4_modelagem_logica/exemplos/exemplo-transformacao-er-relacional-composto.dia)
+* [transformacao-er-relacional-multivalorado](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/4_modelagem_logica/exemplos/exemplo-transformacao-er-relacional-multivalorado.dia)
+* [transformacao-er-relacional-heranca](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/4_modelagem_logica/exemplos/exemplo-transformacao-er-relacional-heranca.dia)
+* [transformacao-er-relacional-entidade-fraca](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/4_modelagem_logica/exemplos/exemplo-transformacao-er-relacional-entidade-fraca.dia)
 
 
 ## Regras de Normalização

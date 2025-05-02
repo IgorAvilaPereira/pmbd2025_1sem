@@ -132,7 +132,10 @@ Modelagem Lógica (Modelo Relacional)
 
 1. **1ª Forma Normal (1FN):** Eliminar grupos repetitivos e garantir que cada campo contenha um único valor
 2. **2ª Forma Normal (2FN):** Estar na 1FN e todos os atributos não-chave devem depender totalmente da chave primária
-3. **3ª Forma Normal (3FN):** Estar na 2FN e não ter dependências transitivas## [./listas](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./listas) <br>
+3. **3ª Forma Normal (3FN):** Estar na 2FN e não ter dependências transitivas
+
+
+## [./listas](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./listas) <br>
 [administradora_condominio.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/administradora_condominio.dia) <br>
 [escola.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/escola.dia) <br>
 [gravadora.drawio](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/gravadora.drawio) <br>

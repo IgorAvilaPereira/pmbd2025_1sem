@@ -98,12 +98,8 @@ Modelagem Lógica (Modelo Relacional)
 [exemplos](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./4_modelagem_logica/exemplos) <br>
 [imagens](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./4_modelagem_logica/imagens) <br>
 ## [./5_modelagem_logica2](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./5_modelagem_logica2) <br>
-[aula_08-formas_normais_1FN-2FN.pdf](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./5_modelagem_logica2/aula_08-formas_normais_1FN-2FN.pdf) <br>
 [gravadora.drawio](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./5_modelagem_logica2/gravadora.drawio) <br>
 [gravadora_modelo_relacional.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./5_modelagem_logica2/gravadora_modelo_relacional.dia) <br>
-[normalizacao_material_complementar.pdf](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./5_modelagem_logica2/normalizacao_material_complementar.pdf) <br>
-[normalizacao.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./5_modelagem_logica2/normalizacao.md) <br>
-[normalizacao_resumo.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./5_modelagem_logica2/normalizacao_resumo.md) <br>
 &nbsp;
 
 **Hoje:**
@@ -126,7 +122,17 @@ Modelagem Lógica (Modelo Relacional)
 
 &nbsp;[script.sql](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./5_modelagem_logica2/script.sql) <br>
 [imagens](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./5_modelagem_logica2/imagens) <br>
-## [./listas](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./listas) <br>
+## [./6_revisao_normalizacao_modelagem_logica](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./6_revisao_normalizacao_modelagem_logica) <br>
+[aula_08-formas_normais_1FN-2FN.pdf](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/aula_08-formas_normais_1FN-2FN.pdf) <br>
+[normalizacao_material_complementar.pdf](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/normalizacao_material_complementar.pdf) <br>
+[normalizacao.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/normalizacao.md) <br>
+[normalizacao_resumo.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/normalizacao_resumo.md) <br>
+
+## Regras de Normalização
+
+1. **1ª Forma Normal (1FN):** Eliminar grupos repetitivos e garantir que cada campo contenha um único valor
+2. **2ª Forma Normal (2FN):** Estar na 1FN e todos os atributos não-chave devem depender totalmente da chave primária
+3. **3ª Forma Normal (3FN):** Estar na 2FN e não ter dependências transitivas## [./listas](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./listas) <br>
 [administradora_condominio.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/administradora_condominio.dia) <br>
 [escola.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/escola.dia) <br>
 [gravadora.drawio](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/gravadora.drawio) <br>

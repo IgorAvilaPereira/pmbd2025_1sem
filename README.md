@@ -122,8 +122,6 @@ Modelagem Lógica (Modelo Relacional)
 
 &nbsp;[script.sql](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./5_modelagem_logica2/script.sql) <br>
 ## [./6_revisao_normalizacao_modelagem_logica](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./6_revisao_normalizacao_modelagem_logica) <br>
-[aula_08-formas_normais_1FN-2FN.pdf](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/aula_08-formas_normais_1FN-2FN.pdf) <br>
-[normalizacao_material_complementar.pdf](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/normalizacao_material_complementar.pdf) <br>
 [normalizacao.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/normalizacao.md) <br>
 [normalizacao_resumo.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/normalizacao_resumo.md) <br>
 
@@ -150,6 +148,7 @@ Modelagem Lógica (Modelo Relacional)
 
 [imagens](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/imagens) <br>
 [regras_mapeamento](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/regras_mapeamento) <br>
+[slides_normalizacao](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/slides_normalizacao) <br>
 ## [./listas](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./listas) <br>
 [administradora_condominio.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/administradora_condominio.dia) <br>
 [escola.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/escola.dia) <br>

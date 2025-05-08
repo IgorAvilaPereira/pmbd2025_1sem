@@ -5,6 +5,7 @@
 [introducao_banco_de_dados.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao_er/introducao_banco_de_dados.md) <br>
 [introducao-er.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao_er/introducao-er.md) <br>
 [introducao-er.pdf](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao_er/introducao-er.pdf) <br>
+[mapamental.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao_er/mapamental.png) <br>
 [relacionamentos-er.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao_er/relacionamentos-er.md) <br>
 [setup.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao_er/setup.md) <br>
 [imagens](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao_er/imagens) <br>

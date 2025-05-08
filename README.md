@@ -123,15 +123,6 @@ Modelagem Lógica (Modelo Relacional)
 &nbsp;[script.sql](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./5_modelagem_logica2/script.sql) <br>
 ## [./6_revisao_normalizacao_modelagem_logica](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./6_revisao_normalizacao_modelagem_logica) <br>
 [aula_08-formas_normais_1FN-2FN.pdf](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/aula_08-formas_normais_1FN-2FN.pdf) <br>
-[exemplo-transformacao-er-relacional-autorelacionamento.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/exemplo-transformacao-er-relacional-autorelacionamento.dia) <br>
-[exemplo-transformacao-er-relacional-autorelacionamento-n-n.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/exemplo-transformacao-er-relacional-autorelacionamento-n-n.dia) <br>
-[exemplo-transformacao-er-relacional-composto.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/exemplo-transformacao-er-relacional-composto.dia) <br>
-[exemplo-transformacao-er-relacional-entidade-associativa.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/exemplo-transformacao-er-relacional-entidade-associativa.dia) <br>
-[exemplo-transformacao-er-relacional-entidade-fraca.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/exemplo-transformacao-er-relacional-entidade-fraca.dia) <br>
-[exemplo-transformacao-er-relacional-heranca.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/exemplo-transformacao-er-relacional-heranca.dia) <br>
-[exemplo-transformacao-er-relacional-multivalorado.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/exemplo-transformacao-er-relacional-multivalorado.dia) <br>
-[exemplo-transformacao-er-relacional-n-m.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/exemplo-transformacao-er-relacional-n-m.dia) <br>
-[exemplo-transformacao-er-relacional-relacionamento-ternario.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/exemplo-transformacao-er-relacional-relacionamento-ternario.dia) <br>
 [normalizacao_material_complementar.pdf](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/normalizacao_material_complementar.pdf) <br>
 [normalizacao.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/normalizacao.md) <br>
 [normalizacao_resumo.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/normalizacao_resumo.md) <br>
@@ -158,6 +149,7 @@ Modelagem Lógica (Modelo Relacional)
 
 
 [imagens](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/imagens) <br>
+[regras_mapeamento](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/regras_mapeamento) <br>
 ## [./listas](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./listas) <br>
 [administradora_condominio.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/administradora_condominio.dia) <br>
 [escola.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/escola.dia) <br>

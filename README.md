@@ -159,13 +159,13 @@ Modelagem Lógica (Modelo Relacional)
 [periodico.drawio](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/periodico.drawio) <br>
 [periodico.drawio.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/periodico.drawio.png) <br>
 ## [./trabalhos](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./trabalhos) <br>
-# Trabalho 1
+### Trabalho 1
 
-## Descrição
+**Descrição**
 
 Vamos criar um Diagrama Entidade-Relacionamento (DER) e um Modelo Relacional para um portal de artigos, semelhante ao Medium. Este portal permitirá que usuários publiquem artigos, comentem e curtam artigos, e que haja categorias para organizar os conteúdos.
 
-## Explicação
+**Explicação**
 
 * Usuário: Armazena informações sobre os usuários do portal.
     * Email

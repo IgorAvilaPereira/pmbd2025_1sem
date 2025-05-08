@@ -123,23 +123,38 @@ Modelagem Lógica (Modelo Relacional)
 &nbsp;[script.sql](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./5_modelagem_logica2/script.sql) <br>
 ## [./6_revisao_normalizacao_modelagem_logica](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./6_revisao_normalizacao_modelagem_logica) <br>
 [aula_08-formas_normais_1FN-2FN.pdf](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/aula_08-formas_normais_1FN-2FN.pdf) <br>
+[exemplo-transformacao-er-relacional-autorelacionamento.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/exemplo-transformacao-er-relacional-autorelacionamento.dia) <br>
+[exemplo-transformacao-er-relacional-autorelacionamento-n-n.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/exemplo-transformacao-er-relacional-autorelacionamento-n-n.dia) <br>
+[exemplo-transformacao-er-relacional-composto.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/exemplo-transformacao-er-relacional-composto.dia) <br>
+[exemplo-transformacao-er-relacional-entidade-associativa.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/exemplo-transformacao-er-relacional-entidade-associativa.dia) <br>
+[exemplo-transformacao-er-relacional-entidade-fraca.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/exemplo-transformacao-er-relacional-entidade-fraca.dia) <br>
+[exemplo-transformacao-er-relacional-heranca.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/exemplo-transformacao-er-relacional-heranca.dia) <br>
+[exemplo-transformacao-er-relacional-multivalorado.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/exemplo-transformacao-er-relacional-multivalorado.dia) <br>
+[exemplo-transformacao-er-relacional-n-m.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/exemplo-transformacao-er-relacional-n-m.dia) <br>
+[exemplo-transformacao-er-relacional-relacionamento-ternario.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/exemplo-transformacao-er-relacional-relacionamento-ternario.dia) <br>
 [normalizacao_material_complementar.pdf](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/normalizacao_material_complementar.pdf) <br>
 [normalizacao.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/normalizacao.md) <br>
 [normalizacao_resumo.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/normalizacao_resumo.md) <br>
-## Regras de Mapeamento - ER > Modelo Relacional 
 
+<!--
 * [transformacao-er-relacional-autorelacionamento](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/4_modelagem_logica/exemplos/exemplo-transformacao-er-relacional-autorelacionamento.dia)
 * [transformacao-er-relacional-composto](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/4_modelagem_logica/exemplos/exemplo-transformacao-er-relacional-composto.dia)
 * [transformacao-er-relacional-multivalorado](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/4_modelagem_logica/exemplos/exemplo-transformacao-er-relacional-multivalorado.dia)
 * [transformacao-er-relacional-heranca](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/4_modelagem_logica/exemplos/exemplo-transformacao-er-relacional-heranca.dia)
 * [transformacao-er-relacional-entidade-fraca](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/4_modelagem_logica/exemplos/exemplo-transformacao-er-relacional-entidade-fraca.dia)
-
+-->
 
 ## Regras de Normalização
 
 1. **1ª Forma Normal (1FN):** Eliminar grupos repetitivos e garantir que cada campo contenha um único valor
 2. **2ª Forma Normal (2FN):** Estar na 1FN e todos os atributos não-chave devem depender totalmente da chave primária
 3. **3ª Forma Normal (3FN):** Estar na 2FN e não ter dependências transitivas
+
+
+## Regras de Mapeamento - ER > Modelo Relacional 
+
+
+
 
 
 [imagens](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/imagens) <br>

@@ -123,8 +123,12 @@ Modelagem Lógica (Modelo Relacional)
 
 &nbsp;[script.sql](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./5_modelagem_logica2/script.sql) <br>
 ## [./6_revisao_normalizacao_modelagem_logica](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./6_revisao_normalizacao_modelagem_logica) <br>
+[aula.drawio](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/aula.drawio) <br>
+[aula-modelagem_conceitual_er.jpg](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/aula-modelagem_conceitual_er.jpg) <br>
+[aula-modelagem_logica_modelo_relacional.jpg](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/aula-modelagem_logica_modelo_relacional.jpg) <br>
 [normalizacao.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/normalizacao.md) <br>
 [normalizacao_resumo.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/normalizacao_resumo.md) <br>
+[pronto_trauma.sql](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/pronto_trauma.sql) <br>
 
 <!--
 * [transformacao-er-relacional-autorelacionamento](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/4_modelagem_logica/exemplos/exemplo-transformacao-er-relacional-autorelacionamento.dia)

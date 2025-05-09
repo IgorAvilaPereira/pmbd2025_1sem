@@ -126,6 +126,7 @@ Modelagem Lógica (Modelo Relacional)
 [aula.drawio](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/aula.drawio) <br>
 [aula-modelagem_conceitual_er.jpg](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/aula-modelagem_conceitual_er.jpg) <br>
 [aula-modelagem_logica_modelo_relacional.jpg](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/aula-modelagem_logica_modelo_relacional.jpg) <br>
+[dicas.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/dicas.md) <br>
 [normalizacao.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/normalizacao.md) <br>
 [normalizacao_resumo.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/normalizacao_resumo.md) <br>
 [pronto_trauma.sql](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/pronto_trauma.sql) <br>

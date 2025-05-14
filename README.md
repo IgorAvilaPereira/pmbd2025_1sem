@@ -218,7 +218,9 @@ obs: para minimizar a complexidade do trabalho, comentários não são cabíveis
 
 &nbsp;
 ## [./videos](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./videos) <br>
-* [Aula 29/03/25](https://www.youtube.com/watch?v=o7b207X2Pf0?)
+* [Aula 08/05/25](https://www.youtube.com/watch?v=9lpbT6WpkkM)
+
+* [Aula 27/03/25](https://www.youtube.com/watch?v=o7b207X2Pf0?)
 
 * [Introdução DER](https://youtube.com/playlist?list=PLvT8P1q6jMWfdK6v25Sjhq3qwxLIAnvtk)
 

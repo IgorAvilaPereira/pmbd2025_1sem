@@ -158,8 +158,12 @@ Modelagem Lógica (Modelo Relacional)
 [imagens](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/imagens) <br>
 [regras_mapeamento](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/regras_mapeamento) <br>
 [slides_normalizacao](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/slides_normalizacao) <br>
+## [./7_normalizacao_modelagem_logica](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./7_normalizacao_modelagem_logica) <br>
+[administradora_condominio.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./7_normalizacao_modelagem_logica/administradora_condominio.dia) <br>
+[estabelecimento_comercial.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./7_normalizacao_modelagem_logica/estabelecimento_comercial.dia) <br>
 ## [./listas](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./listas) <br>
 [administradora_condominio.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/administradora_condominio.dia) <br>
+[administradora_condominio.dia.autosave](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/administradora_condominio.dia.autosave) <br>
 [escola.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/escola.dia) <br>
 [gravadora.drawio](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/gravadora.drawio) <br>
 [gravadora_modelo_relacional.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/gravadora_modelo_relacional.dia) <br>

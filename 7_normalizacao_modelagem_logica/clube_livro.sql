@@ -1,4 +1,5 @@
--- sql
+-- psql -h localhost -U postgres
+-- \i clube_livro.sql
 DROP DATABASE IF EXISTS clube_livro;
 CREATE DATABASE clube_livro;
 

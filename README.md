@@ -161,6 +161,13 @@ Modelagem Lógica (Modelo Relacional)
 ## [./7_normalizacao_modelagem_logica](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./7_normalizacao_modelagem_logica) <br>
 [administradora_condominio.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./7_normalizacao_modelagem_logica/administradora_condominio.dia) <br>
 [estabelecimento_comercial.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./7_normalizacao_modelagem_logica/estabelecimento_comercial.dia) <br>
+
+**+Exemplos de Mapeamento:**
+
+* Especialização/Generalização (Total, Parcial e etc.)
+
+* Entidade Fraca
+
 ## [./listas](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./listas) <br>
 [administradora_condominio.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/administradora_condominio.dia) <br>
 [administradora_condominio.dia.autosave](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/administradora_condominio.dia.autosave) <br>

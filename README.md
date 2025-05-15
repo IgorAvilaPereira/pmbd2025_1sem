@@ -126,7 +126,10 @@ Modelagem Lógica (Modelo Relacional)
 [aula.drawio](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/aula.drawio) <br>
 [aula-modelagem_conceitual_er.jpg](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/aula-modelagem_conceitual_er.jpg) <br>
 [aula-modelagem_logica_modelo_relacional.jpg](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/aula-modelagem_logica_modelo_relacional.jpg) <br>
+[conversao-entre-modelos-er-e-relacional.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/conversao-entre-modelos-er-e-relacional.md) <br>
 [dicas.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/dicas.md) <br>
+[dicionario-de-dados.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/dicionario-de-dados.md) <br>
+[modelo-relacional.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/modelo-relacional.md) <br>
 [normalizacao.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/normalizacao.md) <br>
 [normalizacao_resumo.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/normalizacao_resumo.md) <br>
 [principais-tiposdedados-postgresql.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/principais-tiposdedados-postgresql.png) <br>

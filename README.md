@@ -129,6 +129,7 @@ Modelagem Lógica (Modelo Relacional)
 [dicas.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/dicas.md) <br>
 [normalizacao.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/normalizacao.md) <br>
 [normalizacao_resumo.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/normalizacao_resumo.md) <br>
+[principais-tiposdedados-postgresql.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/principais-tiposdedados-postgresql.png) <br>
 [pronto_trauma.sql](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/pronto_trauma.sql) <br>
 
 <!--
@@ -149,6 +150,7 @@ Modelagem Lógica (Modelo Relacional)
 3. **3ª Forma Normal (3FN):** Estar na 2FN e não ter dependências transitivas
 
 ### Regras de Mapeamento - ER > Modelo Relacional
+[transformacao-er-modelo-relacional.pdf](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/transformacao-er-modelo-relacional.pdf) <br>
 [imagens](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/imagens) <br>
 [regras_mapeamento](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/regras_mapeamento) <br>
 [slides_normalizacao](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/slides_normalizacao) <br>

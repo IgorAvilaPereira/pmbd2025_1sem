@@ -134,6 +134,7 @@ Modelagem Lógica (Modelo Relacional)
 [normalizacao_resumo.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/normalizacao_resumo.md) <br>
 [principais-tiposdedados-postgresql.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/principais-tiposdedados-postgresql.png) <br>
 [pronto_trauma.sql](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/pronto_trauma.sql) <br>
+[psql.pdf](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/psql.pdf) <br>
 
 <!--
 * [transformacao-er-relacional-autorelacionamento](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/4_modelagem_logica/exemplos/exemplo-transformacao-er-relacional-autorelacionamento.dia)

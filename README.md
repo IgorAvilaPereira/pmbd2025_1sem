@@ -146,12 +146,13 @@ Modelagem Lógica (Modelo Relacional)
 
 [Aula 08/05/25](https://www.youtube.com/watch?v=9lpbT6WpkkM)
 
-
+<!--
 ### Regras de Normalização
 
 1. **1ª Forma Normal (1FN):** Eliminar grupos repetitivos e garantir que cada campo contenha um único valor
 2. **2ª Forma Normal (2FN):** Estar na 1FN e todos os atributos não-chave devem depender totalmente da chave primária
 3. **3ª Forma Normal (3FN):** Estar na 2FN e não ter dependências transitivas
+-->
 
 ### Regras de Mapeamento - ER > Modelo Relacional
 [transformacao-er-modelo-relacional.pdf](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/transformacao-er-modelo-relacional.pdf) <br>
@@ -160,9 +161,17 @@ Modelagem Lógica (Modelo Relacional)
 [slides_normalizacao](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./6_revisao_normalizacao_modelagem_logica/slides_normalizacao) <br>
 ## [./7_normalizacao_modelagem_logica](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./7_normalizacao_modelagem_logica) <br>
 [administradora_condominio.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./7_normalizacao_modelagem_logica/administradora_condominio.dia) <br>
+[clube_livro.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./7_normalizacao_modelagem_logica/clube_livro.dia) <br>
+[clube_livro.sql](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./7_normalizacao_modelagem_logica/clube_livro.sql) <br>
 [estabelecimento_comercial.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./7_normalizacao_modelagem_logica/estabelecimento_comercial.dia) <br>
 [exemplo-transformacao-er-relacional-entidade-fraca.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./7_normalizacao_modelagem_logica/exemplo-transformacao-er-relacional-entidade-fraca.dia) <br>
 [exemplo-transformacao-er-relacional-heranca.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./7_normalizacao_modelagem_logica/exemplo-transformacao-er-relacional-heranca.dia) <br>
+### Regras de Normalização
+
+1. **1ª Forma Normal (1FN):** Eliminar grupos repetitivos e garantir que cada campo contenha um único valor
+2. **2ª Forma Normal (2FN):** Estar na 1FN e todos os atributos não-chave devem depender totalmente da chave primária
+3. **3ª Forma Normal (3FN):** Estar na 2FN e não ter dependências transitivas
+
 
 **+Exemplos de Mapeamento:**
 

@@ -161,6 +161,8 @@ Modelagem Lógica (Modelo Relacional)
 ## [./7_normalizacao_modelagem_logica](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./7_normalizacao_modelagem_logica) <br>
 [administradora_condominio.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./7_normalizacao_modelagem_logica/administradora_condominio.dia) <br>
 [estabelecimento_comercial.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./7_normalizacao_modelagem_logica/estabelecimento_comercial.dia) <br>
+[exemplo-transformacao-er-relacional-entidade-fraca.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./7_normalizacao_modelagem_logica/exemplo-transformacao-er-relacional-entidade-fraca.dia) <br>
+[exemplo-transformacao-er-relacional-heranca.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./7_normalizacao_modelagem_logica/exemplo-transformacao-er-relacional-heranca.dia) <br>
 
 **+Exemplos de Mapeamento:**
 

@@ -43,7 +43,7 @@ for d in ./*; do
 done
 
 cp "README.md" "./../"$repositorio".wiki/Home.md"	
-git add * && git commit -m 'atualizando' && git push
+git pull && git add * && git commit -m 'atualizando' && git push
 
 # se n tiver wiki, favor comentar
 cd "./../"$repositorio".wiki/" && git add * && git commit -m 'atualizando' && git push

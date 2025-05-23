@@ -180,6 +180,7 @@ Modelagem Lógica (Modelo Relacional)
 * Entidade Fraca
 
 ## [./8_resolucao_atividade1_e_implementacao_fisica](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./8_resolucao_atividade1_e_implementacao_fisica) <br>
+[1atividade_avaliada_er_modelo_relacional.pdf](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./8_resolucao_atividade1_e_implementacao_fisica/1atividade_avaliada_er_modelo_relacional.pdf) <br>
 &nbsp;
 ## [./listas](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./listas) <br>
 [administradora_condominio.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/administradora_condominio.dia) <br>

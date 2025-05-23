@@ -181,6 +181,7 @@ Modelagem Lógica (Modelo Relacional)
 
 ## [./8_resolucao_atividade1_e_implementacao_fisica](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./8_resolucao_atividade1_e_implementacao_fisica) <br>
 [1atividade_avaliada_er_modelo_relacional.pdf](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./8_resolucao_atividade1_e_implementacao_fisica/1atividade_avaliada_er_modelo_relacional.pdf) <br>
+[lista_sql.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./8_resolucao_atividade1_e_implementacao_fisica/lista_sql.md) <br>
 &nbsp;
 [sql1.pdf](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./8_resolucao_atividade1_e_implementacao_fisica/sql1.pdf) <br>
 [sql2.pdf](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./8_resolucao_atividade1_e_implementacao_fisica/sql2.pdf) <br>

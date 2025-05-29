@@ -85,7 +85,7 @@ CREATE TABLE Super_Heroi_Missao (
 6.  **Registrar Participação em Missões:**
     * Registre a participação de super-heróis em missões, especificando o período de participação. Lembre-se que um super-herói pode não ter participado de nenhuma missão.
         * Exemplo: Superman participou da "Resgate da Cidade" de 01/01/2024 a 10/01/2024.
-
+        
 ---
 
 ### Consultas Simples (SELECT)
@@ -110,6 +110,14 @@ CREATE TABLE Super_Heroi_Missao (
 
 7.  **Missões Ativas em um Período:**
     * Liste as missões que estavam ativas (data de início da missão <= '2024-02-15' e data de fim da missão >= '2024-02-15').
+    
+8. Liste o nome e endereço de todos os super-heróis que moram em endereços que contenham a palavra "Rua".
+
+
+9. Liste todas as missões que ocorreram em março de 2024.
+
+
+10. Mostre todas as equipes cujo nome comece com a letra "V".
 
 ---
 <!--
@@ -153,5 +161,10 @@ CREATE TABLE Super_Heroi_Missao (
 
 5.  **Excluir um Super-Herói:**
     * Exclua um super-herói, garantindo que todas as suas referências em tabelas de relacionamento também sejam removidas (ex: "Flash").
+    
+6. Apague todas as missões que já terminaram antes de 01/02/2024.
+
+
+7. Delete todos os super-heróis cujo endereço seja nulo.
 
 ---

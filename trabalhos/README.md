@@ -51,3 +51,4 @@ obs: para minimizar a complexidade do trabalho, comentários não são cabíveis
 * Um Usuário pode curtir vários Artigos.
 
 &nbsp;
+[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./trabalhos)

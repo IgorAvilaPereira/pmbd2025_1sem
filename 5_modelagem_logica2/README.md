@@ -18,4 +18,4 @@
 * Fazer a atividade avaliada do 1 bim.
 * E começar 2º bim: Retomando modelagem lógica e trazendo a etapa de implementação física 
 
-&nbsp;
+&nbsp;[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./5_modelagem_logica2)

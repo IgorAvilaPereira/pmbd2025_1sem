@@ -25,6 +25,7 @@ for d in ./*; do
 	    		# se n tiver wiki, favor comentar
  #   			echo "[$d2](https://github.com/IgorAvilaPereira/"$repositorio"/blob/main/$d/$d2) <br>" >> "./../../"$repositorio".wiki/Home.md"					
             else
+                 echo "[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/$repositorio/tree/main/$d)" >> "README.md" 
                  cat "README.md" >> "./../README.md"
   #               cat "README.md" >> "./../../"$repositorio".wiki/Home.md"							
 			fi
@@ -42,11 +43,11 @@ for d in ./*; do
 	fi
 done
 
+cp "README.md" "./../"$repositorio".wiki/Home.md"	
 git add * && git commit -m 'atualizando' && git push
 
 # se n tiver wiki, favor comentar
-cp "README.md" "./../$repositorio.wiki/Home.md"	
-cd "./../"$repositorio".wiki/" && git pull && git add * && git commit -m 'atualizando' && git push
+cd "./../"$repositorio".wiki/" && git add * && git commit -m 'atualizando' && git push
 
 # exibindo o novo README criado. Este mesmo README aparecera no Home.md da wiki (caso exista)
 #echo "==================================="

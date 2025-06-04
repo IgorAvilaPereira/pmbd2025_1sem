@@ -6,6 +6,7 @@
 [introducao-er.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao_er/introducao-er.md) <br>
 [introducao-er.pdf](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao_er/introducao-er.pdf) <br>
 [mapamental.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao_er/mapamental.png) <br>
+[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./1_introducao_er)
 [relacionamentos-er.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao_er/relacionamentos-er.md) <br>
 [setup.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao_er/setup.md) <br>
 [imagens](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./1_introducao_er/imagens) <br>

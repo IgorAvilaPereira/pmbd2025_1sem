@@ -208,4 +208,89 @@ Modelagem Lógica (Modelo Relacional)
 [lista_er.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/lista_er.md) <br>
 [periodico.drawio](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/periodico.drawio) <br>
 [periodico.drawio.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/periodico.drawio.png) <br>
-## [./renomear.sh](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./renomear.sh) <br>
+## [./trabalhos](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./trabalhos) <br>
+### Trabalho 1
+
+**Descrição**
+
+Vamos criar um Diagrama Entidade-Relacionamento (DER) e um Modelo Relacional para um portal de artigos, semelhante ao Medium. Este portal permitirá que usuários publiquem artigos, comentem e curtam artigos, e que haja categorias para organizar os conteúdos.
+
+**Explicação**
+
+* Usuário: Armazena informações sobre os usuários do portal.
+    * Email
+    * Nome
+    * Senha
+    * Data de Cadastro
+    * Data de Nascimento e idade
+    * telefones
+    * Endereço: bairro, complemento, nro, cep, rua
+    
+* Artigo: Armazena os artigos escritos pelos usuários, com referência ao autor (Usuário) e à categoria.
+    * Titulo
+    * Data/hora da Publicação
+    * Tem relacionamento com Categoria e com Usuário
+
+* Categoria: Armazena as categorias dos artigos.
+    * Nome
+    
+* Comentário: Armazena os comentários feitos nos artigos, com referência ao autor do comentário (Usuário) e ao artigo comentado.
+    * Conteudo
+    * Data e Hora do Comentário
+    * Tem relacionamento com Usuário e Artigo
+    
+* Curtida: Armazena as curtidas nos artigos, com referência ao usuário que curtiu e ao artigo curtido.
+   * Data e Hora
+   * Relacionamento com Artigo e Usuário
+   
+obs: para minimizar a complexidade do trabalho, comentários não são cabíveis de curtida - somente os artigos
+
+**Entidades Principais**
+
+* Usuário: Representa os escritores e leitores.
+* Artigo: Representa os artigos escritos pelos usuários.
+* Categoria: Representa as categorias dos artigos.
+* Comentário: Representa os comentários feitos nos artigos.
+* Curtida: Representa as curtidas nos artigos.
+
+**Relacionamentos**
+
+* Um Usuário pode escrever vários Artigos.
+* Um Artigo pertence a uma Categoria.
+* Um Artigo pode ter vários Comentários.
+* Um Usuário pode fazer vários Comentários.
+* Um Usuário pode curtir vários Artigos.
+
+&nbsp;
+[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./trabalhos)
+## [./videos](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./videos) <br>
+* [Aula 08/05/25](https://www.youtube.com/watch?v=9lpbT6WpkkM)
+
+* [Aula 27/03/25](https://www.youtube.com/watch?v=o7b207X2Pf0?)
+
+* [Introdução DER](https://youtube.com/playlist?list=PLvT8P1q6jMWfdK6v25Sjhq3qwxLIAnvtk)
+
+* [Como instalei o PostgreSQL na minha máquina?](https://youtube.com/playlist?list=PLvT8P1q6jMWcT5op9r3RJpaiD4uWAh4zu)
+
+* [Modelagem Lógica (Modelo Relacional)](https://youtube.com/playlist?list=PLvT8P1q6jMWdCXVwsdO3UAPAn743vHccK)
+
+* [[bd2022_1sem] Revisão - Pré-Exame](https://www.youtube.com/watch?v=K903Nd0VNx0)
+
+* [Encontro Síncrono - Modelagem Lógica (Modelo Relacional) e Modelagem Física (script.sql) - 27/09/23](https://www.youtube.com/watch?v=CzLUSWYwNQM)
+
+* [Banco de Dados - DesCOMPlica, Oliba!](https://youtube.com/playlist?list=PLHCyLhqWSaHCItIKsQ37d7-_1CIDlZUtf)
+
+* [Curso Básico de PostgreSQL](https://youtube.com/playlist?list=PLucm8g_ezqNoAkYKXN_zWupyH6hQCAwxY)
+
+<!--
+**Modelagem Conceitual (Diagrama de Entidade Relacionamento):**
+
+* https://www.youtube.com/watch?v=WuOItyxbKQc
+* https://www.youtube.com/watch?v=Yz40xfg-Gi8
+* https://www.youtube.com/watch?v=Z6zCFfn_n8Q
+* https://www.youtube.com/watch?v=8roMCSjNbeE
+
+**Modelagem Lógica (Modelo Relacional):**
+-->
+
+[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./videos)

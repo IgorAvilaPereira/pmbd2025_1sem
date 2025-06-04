@@ -6,7 +6,7 @@
 [introducao-er.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./01_introducao_er/introducao-er.md) <br>
 [introducao-er.pdf](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./01_introducao_er/introducao-er.pdf) <br>
 [mapamental.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./01_introducao_er/mapamental.png) <br>
-[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./1_introducao_er)
+[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./01_introducao_er)
 [relacionamentos-er.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./01_introducao_er/relacionamentos-er.md) <br>
 [setup.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./01_introducao_er/setup.md) <br>
 [imagens](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./01_introducao_er/imagens) <br>
@@ -19,7 +19,7 @@
 
 * Entidade Associativa <br><br>
 
-[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./2_especializacao_generalizacao)
+[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./02_especializacao_generalizacao)
 [resumo2.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./02_especializacao_generalizacao/resumo2.png) <br>
 [resumo3.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./02_especializacao_generalizacao/resumo3.png) <br>
 ## [./03_entidades_fraca_associativa](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./03_entidades_fraca_associativa) <br>
@@ -40,7 +40,7 @@
 
 
 
-[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./3_entidades_fraca_associativa)
+[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./03_entidades_fraca_associativa)
 [imagens](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./03_entidades_fraca_associativa/imagens) <br>
 ## [./04_modelagem_logica](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./04_modelagem_logica) <br>
 [conversao-entre-modelos-er-e-relacional.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./04_modelagem_logica/conversao-entre-modelos-er-e-relacional.md) <br>
@@ -99,7 +99,7 @@ Modelagem Lógica (Modelo Relacional)
 
 
 
-[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./4_modelagem_logica)
+[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./04_modelagem_logica)
 [transformacao-er-modelo-relacional.pdf](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./04_modelagem_logica/transformacao-er-modelo-relacional.pdf) <br>
 [exemplos](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./04_modelagem_logica/exemplos) <br>
 [imagens](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./04_modelagem_logica/imagens) <br>
@@ -128,7 +128,7 @@ Modelagem Lógica (Modelo Relacional)
 
 &nbsp;
 
-[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./5_modelagem_logica2)
+[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./05_modelagem_logica2)
 [script.sql](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./05_modelagem_logica2/script.sql) <br>
 ## [./06_revisao_normalizacao_modelagem_logica](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./06_revisao_normalizacao_modelagem_logica) <br>
 [aula.drawio](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./06_revisao_normalizacao_modelagem_logica/aula.drawio) <br>
@@ -164,7 +164,7 @@ Modelagem Lógica (Modelo Relacional)
 
 ### Regras de Mapeamento - ER > Modelo Relacional
 
-[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./6_revisao_normalizacao_modelagem_logica)
+[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./06_revisao_normalizacao_modelagem_logica)
 [transformacao-er-modelo-relacional.pdf](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./06_revisao_normalizacao_modelagem_logica/transformacao-er-modelo-relacional.pdf) <br>
 [imagens](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./06_revisao_normalizacao_modelagem_logica/imagens) <br>
 [regras_mapeamento](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./06_revisao_normalizacao_modelagem_logica/regras_mapeamento) <br>
@@ -189,14 +189,14 @@ Modelagem Lógica (Modelo Relacional)
 
 * Entidade Fraca
 
-[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./7_normalizacao_modelagem_logica)
+[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./07_normalizacao_modelagem_logica)
 ## [./08_resolucao_atividade1_e_implementacao_fisica](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./08_resolucao_atividade1_e_implementacao_fisica) <br>
 [1atividade_avaliada_er_modelo_relacional.pdf](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./08_resolucao_atividade1_e_implementacao_fisica/1atividade_avaliada_er_modelo_relacional.pdf) <br>
 [atividade1_2025.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./08_resolucao_atividade1_e_implementacao_fisica/atividade1_2025.dia) <br>
 [atividade1_2025.sql](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./08_resolucao_atividade1_e_implementacao_fisica/atividade1_2025.sql) <br>
 [lista_sql.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./08_resolucao_atividade1_e_implementacao_fisica/lista_sql.md) <br>
 &nbsp;
-[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./8_resolucao_atividade1_e_implementacao_fisica)
+[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./08_resolucao_atividade1_e_implementacao_fisica)
 [sql1.pdf](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./08_resolucao_atividade1_e_implementacao_fisica/sql1.pdf) <br>
 [sql2.pdf](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./08_resolucao_atividade1_e_implementacao_fisica/sql2.pdf) <br>
 ## [./listas](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./listas) <br>

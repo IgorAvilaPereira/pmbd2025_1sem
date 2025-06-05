@@ -88,3 +88,56 @@ INSERT INTO superheroi_poder (poder_id, superheroi_id) VALUES
 (4, 2),
 (4, 3);
 
+--Inserir Equipes:
+-- Insira três equipes: "Liga da Justiça", "Vingadores" e "X-Men".
+INSERT INTO equipe (nome) VALUES
+('X-Men');
+
+
+--Inserir Poderes:
+--Insira pelo menos cinco poderes: "Super Força", "Voo", "Telepatia", "Riqueza", "Mimetismo".
+INSERT INTO poder (descricao) VALUES
+('SUPER-FORÇA'),
+('VOO'),
+('TELEPATIA'),
+('RIQUEZA');
+
+/*
+Inserir Super-Heróis:
+
+Insira cinco super-heróis, garantindo que pelo menos um não tenha equipe e um tenha um mentor (que também deve ser um super-herói já inserido). Pelo menos um super-herói não deve ter participado de nenhuma missão.
+Exemplos: "Superman" (Liga da Justiça), "Batman" (Liga da Justiça, mentor: Superman), "Homem de Ferro" (Vingadores), "Professor Xavier" (X-Men), "Flash" (sem equipe).
+*/
+INSERT INTO superheroi (nome) VALUES
+('Superman');
+
+INSERT INTO equipe_superheroi (superheroi_id, equipe_id) VALUES
+(5, 2);
+
+INSERT INTO superheroi (nome) VALUES
+('Flash');
+
+INSERT INTO equipe_superheroi (superheroi_id, equipe_id) VALUES
+(6, 2);
+
+INSERT INTO superheroi (nome) VALUES
+('Professor Xavior');
+
+INSERT INTO equipe_superheroi (superheroi_id, equipe_id) VALUES
+(7, 3);
+
+INSERT INTO superheroi (nome) VALUES
+('Deadpool');
+
+INSERT INTO equipe_superheroi (superheroi_id, equipe_id) VALUES
+(2, 2);
+
+
+
+
+
+
+
+
+
+

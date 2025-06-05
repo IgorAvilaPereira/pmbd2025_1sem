@@ -265,6 +265,7 @@ obs: para minimizar a complexidade do trabalho, comentários não são cabíveis
 
 &nbsp;
 [Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./trabalhos)
+[trabalho2.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./trabalhos/trabalho2.md) <br>
 ## [./videos](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./videos) <br>
 * [Aula 08/05/25](https://www.youtube.com/watch?v=9lpbT6WpkkM)
 

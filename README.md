@@ -194,7 +194,6 @@ Modelagem Lógica (Modelo Relacional)
 [1atividade_avaliada_er_modelo_relacional.pdf](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./08_resolucao_atividade1_e_implementacao_fisica/1atividade_avaliada_er_modelo_relacional.pdf) <br>
 [atividade1_2025.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./08_resolucao_atividade1_e_implementacao_fisica/atividade1_2025.dia) <br>
 [atividade1_2025.sql](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./08_resolucao_atividade1_e_implementacao_fisica/atividade1_2025.sql) <br>
-[lista_sql.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./08_resolucao_atividade1_e_implementacao_fisica/lista_sql.md) <br>
 &nbsp;
 [Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./08_resolucao_atividade1_e_implementacao_fisica)
 [sql1.pdf](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./08_resolucao_atividade1_e_implementacao_fisica/sql1.pdf) <br>
@@ -205,7 +204,9 @@ Modelagem Lógica (Modelo Relacional)
 [escola.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/escola.dia) <br>
 [gravadora.drawio](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/gravadora.drawio) <br>
 [gravadora_modelo_relacional.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/gravadora_modelo_relacional.dia) <br>
+[lista_ddl.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/lista_ddl.md) <br>
 [lista_er.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/lista_er.md) <br>
+[lista_sql.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/lista_sql.md) <br>
 [periodico.drawio](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/periodico.drawio) <br>
 [periodico.drawio.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/periodico.drawio.png) <br>
 ## [./trabalhos](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./trabalhos) <br>

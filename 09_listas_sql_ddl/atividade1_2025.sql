@@ -133,7 +133,11 @@ INSERT INTO equipe_superheroi (superheroi_id, equipe_id) VALUES
 (2, 2);
 
 
+/*
+-- superherois e suas equipes
+SELECT superheroi.nome, equipe.nome FROM equipe INNER JOIN equipe_superheroi on (equipe.id = equipe_superheroi.equipe_id) RIGHT join superheroi on (superheroi.id = equipe_superheroi.superheroi_id);
 
+*/
 
 
 

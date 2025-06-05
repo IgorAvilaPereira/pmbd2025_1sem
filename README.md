@@ -198,9 +198,6 @@ Modelagem Lógica (Modelo Relacional)
 [Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./08_resolucao_atividade1_e_implementacao_fisica)
 [sql1.pdf](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./08_resolucao_atividade1_e_implementacao_fisica/sql1.pdf) <br>
 [sql2.pdf](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./08_resolucao_atividade1_e_implementacao_fisica/sql2.pdf) <br>
-## [./9_listas_sql_ddl](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./9_listas_sql_ddl) <br>
-[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/9_listas_sql_ddl)
-&nbsp;
 ## [./listas](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./listas) <br>
 [lista_ddl.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/lista_ddl.md) <br>
 [lista_er.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/lista_er.md) <br>

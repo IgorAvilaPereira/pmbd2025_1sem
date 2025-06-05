@@ -199,16 +199,10 @@ Modelagem Lógica (Modelo Relacional)
 [sql1.pdf](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./08_resolucao_atividade1_e_implementacao_fisica/sql1.pdf) <br>
 [sql2.pdf](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./08_resolucao_atividade1_e_implementacao_fisica/sql2.pdf) <br>
 ## [./listas](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./listas) <br>
-[administradora_condominio.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/administradora_condominio.dia) <br>
-[administradora_condominio.dia.autosave](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/administradora_condominio.dia.autosave) <br>
-[escola.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/escola.dia) <br>
-[gravadora.drawio](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/gravadora.drawio) <br>
-[gravadora_modelo_relacional.dia](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/gravadora_modelo_relacional.dia) <br>
 [lista_ddl.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/lista_ddl.md) <br>
 [lista_er.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/lista_er.md) <br>
 [lista_sql.md](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/lista_sql.md) <br>
-[periodico.drawio](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/periodico.drawio) <br>
-[periodico.drawio.png](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/periodico.drawio.png) <br>
+[solucoes](https://github.com/IgorAvilaPereira/pmbd2025_1sem/blob/main/./listas/solucoes) <br>
 ## [./trabalhos](https://github.com/IgorAvilaPereira/pmbd2025_1sem/tree/main/./trabalhos) <br>
 ### Trabalho 1
 

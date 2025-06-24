@@ -1,6 +1,6 @@
 Cronograma
 
-* 24/06 - Revisão Pré atividade avaliada
+* 26/06 - Revisão Pré atividade avaliada
 
 * 03/07 - Entrega do trabalho 2 via sigaa + atividade avaliada 2 (presencial e ao vivo)
 

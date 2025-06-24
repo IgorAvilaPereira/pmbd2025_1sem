@@ -1,5 +1,11 @@
 Cronograma
 
-> 03/07 -> entrega do trabalho 2
-> 03/07 -> atividade avaliada 2 (ao vivo)
-> 10/07 -> "gordura" segundas chamada, pré exame 
+* 24/06 - Revisão Pré atividade avaliada
+
+* 03/07 -> Entrega do trabalho 2 via sigaa + atividade avaliada 2 (presencial e ao vivo)
+
+* 10/07 -> "gordura" segundas chamada
+
+* 17/07 -> defesas de tcc
+
+* 24/07 -> exame
